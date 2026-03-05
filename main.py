@@ -58,6 +58,7 @@ BOX_PLOT_GROUP_MONTH_MAP = {
     },
 }
 
+# TODO: produce from map above
 BOX_PLOT_SEASON_GROUP_MAP = {
 
   "2022-03": "spring 2022",
